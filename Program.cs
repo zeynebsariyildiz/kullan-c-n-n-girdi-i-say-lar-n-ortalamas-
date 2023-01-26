@@ -22,7 +22,7 @@ namespace kullanıcının_girdiği_sayıların_ortalaması
             }
             Console.WriteLine("Sayıların Ortalaması = " + (toplam / adet)); 
             Console.ReadLine();
-            
+            //gayet güzel olmuş :))
         }
     }
 }
